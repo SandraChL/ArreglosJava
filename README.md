@@ -1,4 +1,4 @@
-# ArreglosJava
+# ArreglosJavayPython
 Un arreglo es un tipo de datos que contiene varios elementos de un mismo tipo. Cada elemento tiene asociado un índice, y puede ser tratado como si fuera una variable. La cantidad de elementos que tiene un arreglo es fija, y no puede cambiar durante la ejecución del programa.
 
 
@@ -27,3 +27,8 @@ public static void main(String[] args) {
 
 
 ## codigo en la captura de pantalla
+
+arreglos python 
+
+matriz=list(range (5,21,3))
+list (range (5,10))
